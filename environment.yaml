@@ -1,0 +1,26 @@
+name: chatsd
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - pip=20.3
+  - cudatoolkit=11.3
+  - numpy=1.23.3
+  - pip:
+    - albumentations==0.4.3
+    - diffusers
+    - opencv-python==4.1.2.30
+    - pudb==2019.2
+    - invisible-watermark
+    - imageio==2.9.0
+    - imageio-ffmpeg==0.4.2
+    - omegaconf==2.1.1
+    - streamlit>=0.73.1
+    - einops==0.3.0
+    - transformers
+    - langchain==0.0.116
+    - pydantic==1.10.6
+    - sentencepiece==0.1.97
+    - accelerate==0.17.1
+    - cpm_kernels==1.0.11
