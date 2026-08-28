@@ -1,3 +1,5 @@
+
+
 <p align="center" width="100%">
 <img src="assets/chatsd-logo.png" alt="ChatSD" style="width: 50%; min-width: 300px; display: block; margin: auto;">
 </p>
@@ -16,7 +18,7 @@ At this point, ChatSD uses [ChatGLM-6B](https://huggingface.co/THUDM/chatglm-6b)
 
 ```bash
 # clone the project
-git clone ....
+git clone https://github.com/axzml/ChatSD.git
 
 # go to directory
 cd ChatSD
@@ -88,4 +90,4 @@ I appreciate the open source of the following projects. Thanks to all the develo
 [clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) &#8194; 
 [text2image-prompt-generator](https://huggingface.co/succinctly/text2image-prompt-generator) &#8194; 
 [prompt-generator](https://huggingface.co/spaces/doevent/prompt-generator) &#8194; 
-[openjourney](https://huggingface.co/prompthero/openjourney) &#8194; 
+[openjourney](https://huggingface.co/prompthero/openjourney) &#8194;
